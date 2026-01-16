@@ -108,7 +108,7 @@ The `pandoc-metadata.yaml` file contains all formatting settings (fonts, margins
 ### Requirements
 - Pandoc 2.x or later
 - XeLaTeX (part of TeX Live or MiKTeX)
-- Fonts: Palatino Linotype, Arial, Consolas (or system defaults)
+- TeX Gyre fonts (included in TeX Live / texlive-fonts-extra)
 
 ---
 

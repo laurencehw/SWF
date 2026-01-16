@@ -7,9 +7,9 @@ abstract: |
   This white paper proposes a comprehensive architecture for a United States sovereign wealth fund—the United States Strategic Investment Fund—designed to advance American economic and national security interests while maintaining the highest standards of governance and transparency. The proposal addresses the central challenges of funding despite persistent fiscal deficits, governance that insulates against politicization, and investment strategy that balances strategic and financial objectives. Drawing on extensive analysis of global sovereign wealth funds and the Santiago Principles framework, this paper recommends a dual-account structure, phased funding approach beginning with congressional appropriation, and an independent governance architecture modeled on best practices from Norway, Singapore, Australia, and New Zealand.
 fontsize: 11pt
 geometry: margin=1in
-mainfont: "Palatino Linotype"
-sansfont: "Arial"
-monofont: "Consolas"
+mainfont: "TeX Gyre Pagella"
+sansfont: "TeX Gyre Heros"
+monofont: "DejaVu Sans Mono"
 linestretch: 1.15
 toc: true
 toc-depth: 2
