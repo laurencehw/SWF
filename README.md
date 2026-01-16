@@ -45,6 +45,7 @@ A well-designed sovereign wealth fund that:
 | [`US_SWF_Proposal_WhitePaper.md`](US_SWF_Proposal_WhitePaper.md) | Full manuscript in Markdown format |
 | [`US_SWF_Proposal_WhitePaper.pdf`](US_SWF_Proposal_WhitePaper.pdf) | Compiled PDF version |
 | [`EXECUTIVE_BRIEF.md`](EXECUTIVE_BRIEF.md) | One-page summary for quick reference |
+| [`pandoc-metadata.yaml`](pandoc-metadata.yaml) | Pandoc settings for PDF generation |
 
 ---
 
@@ -97,14 +98,12 @@ Focus on **Congressional Authorization Pathway** (Section VIII) and **Appendix D
 To regenerate the PDF from the Markdown source, you'll need [Pandoc](https://pandoc.org/) and a LaTeX distribution:
 
 ```bash
-pandoc US_SWF_Proposal_WhitePaper.md \
+pandoc pandoc-metadata.yaml US_SWF_Proposal_WhitePaper.md \
   -o US_SWF_Proposal_WhitePaper.pdf \
-  --pdf-engine=xelatex \
-  --toc \
-  --toc-depth=2 \
-  -V geometry:margin=1in \
-  -V fontsize=11pt
+  --pdf-engine=xelatex
 ```
+
+The `pandoc-metadata.yaml` file contains all formatting settings (fonts, margins, headers, etc.) for PDF generation. The main Markdown file is kept clean for GitHub rendering.
 
 ### Requirements
 - Pandoc 2.x or later
