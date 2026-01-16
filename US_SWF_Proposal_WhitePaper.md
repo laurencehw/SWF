@@ -425,6 +425,8 @@ Appropriations                Revenues                   Monetization
 
     █ = Appropriations    ░ = Dedicated Revenues    ▒ = Asset Monetization
 
+    Note: Bar heights are illustrative of the evolving funding mix over time.
+          Exact proportions will depend on policy choices and market conditions.
 
 ┌───────────────────┐   ┌───────────────────────┐   ┌───────────────────────┐
 │ PHASE 1           │   │ PHASE 2               │   │ PHASE 3               │
@@ -1480,14 +1482,14 @@ This section directly addresses the most serious reservations about a US soverei
 ```
 AUM ($B)
    │
-1T ┤                                                              ╭────
+1T ┤                                                              ╭────  Target: $500B-$1T
    │                                                         ╭────╯
    │                                                    ╭────╯
 800┤                                               ╭────╯
    │                                          ╭────╯
 600┤                                     ╭────╯
    │                                ╭────╯
-500┤                           ●────╯   Target: $500B-$1T
+500┤                           ╭────╯
    │                      ╭────╯
 400┤                 ╭────╯
    │            ╭────╯

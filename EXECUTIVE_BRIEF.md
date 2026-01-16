@@ -40,7 +40,7 @@ The United States faces a strategic investment gap. China deploys **$1+ trillion
 
 | Element | Design Choice | Rationale |
 |---------|--------------|-----------|
-| **Governance** | 9-member board, 4 independent | Insulate from politicization |
+| **Governance** | 9-member board, 4 independent (voting majority) | Insulate from politicization |
 | **Terms** | 7 years, staggered | Span election cycles |
 | **Legal Basis** | Congressional statute | Constitutional protection |
 | **Compliance** | Santiago Principles | International credibility |
