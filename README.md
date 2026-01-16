@@ -173,6 +173,12 @@ Under the following terms:
 
 ---
 
+## AI Disclosure
+
+This project was developed with AI assistance. See [AI_DISCLOSURE.md](AI_DISCLOSURE.md) for details.
+
+---
+
 ## Author
 
 **Laurence Wilse-Samson**
