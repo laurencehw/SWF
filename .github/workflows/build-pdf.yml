@@ -39,4 +39,5 @@ jobs:
           git config --local user.name "github-actions[bot]"
           git add US_SWF_Proposal_WhitePaper.pdf
           git diff --staged --quiet || git commit -m "Auto-generate PDF from Markdown source"
+          git pull --rebase origin ${{ github.ref_name }}
           git push
