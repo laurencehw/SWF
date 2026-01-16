@@ -1,46 +1,15 @@
----
-title: "A Strategic Investment Fund for America"
-subtitle: "A Proposal for a United States Sovereign Wealth Fund"
-author: "Laurence Wilse-Samson"
-date: "December 2025"
-abstract: |
-  This white paper proposes a comprehensive architecture for a United States sovereign wealth fund—the United States Strategic Investment Fund—designed to advance American economic and national security interests while maintaining the highest standards of governance and transparency. The proposal addresses the central challenges of funding despite persistent fiscal deficits, governance that insulates against politicization, and investment strategy that balances strategic and financial objectives. Drawing on extensive analysis of global sovereign wealth funds and the Santiago Principles framework, this paper recommends a dual-account structure, phased funding approach beginning with congressional appropriation, and an independent governance architecture modeled on best practices from Norway, Singapore, Australia, and New Zealand.
-fontsize: 11pt
-geometry: margin=1in
-mainfont: "Palatino Linotype"
-sansfont: "Arial"
-monofont: "Consolas"
-linestretch: 1.15
-toc: true
-toc-depth: 2
-numbersections: false
-colorlinks: true
-linkcolor: NavyBlue
-urlcolor: NavyBlue
-header-includes:
-  - \usepackage{titlesec}
-  - \titleformat{\section}{\Large\bfseries}{\thesection}{1em}{}
-  - \titleformat{\subsection}{\large\bfseries}{\thesubsection}{1em}{}
-  - \usepackage{fancyhdr}
-  - \pagestyle{fancy}
-  - \fancyhead[L]{\small A Strategic Investment Fund for America}
-  - \fancyhead[R]{\small Wilse-Samson}
-  - \fancyfoot[C]{\thepage}
-  - \usepackage{float}
-  - \floatplacement{table}{H}
-  - \usepackage{longtable}
-  - \usepackage{booktabs}
-  - \usepackage{array}
-  - \usepackage{tabularx}
-  - \usepackage{adjustbox}
-  - \let\oldtable\table
-  - \let\endoldtable\endtable
-  - \renewenvironment{table}[1][htbp]{\begin{adjustbox}{max width=\textwidth}\begin{oldtable}[#1]}{\end{oldtable}\end{adjustbox}}
-  - \setlength{\tabcolsep}{4pt}
-  - \renewcommand{\arraystretch}{1.2}
+# A Strategic Investment Fund for America
+
+**A Proposal for a United States Sovereign Wealth Fund**
+
+*Laurence Wilse-Samson*
+*December 2025*
+
 ---
 
-\newpage
+> **Abstract:** This white paper proposes a comprehensive architecture for a United States sovereign wealth fund—the United States Strategic Investment Fund—designed to advance American economic and national security interests while maintaining the highest standards of governance and transparency. The proposal addresses the central challenges of funding despite persistent fiscal deficits, governance that insulates against politicization, and investment strategy that balances strategic and financial objectives. Drawing on extensive analysis of global sovereign wealth funds and the Santiago Principles framework, this paper recommends a dual-account structure, phased funding approach beginning with congressional appropriation, and an independent governance architecture modeled on best practices from Norway, Singapore, Australia, and New Zealand.
+
+---
 
 ## How to Read This Paper
 
@@ -71,7 +40,7 @@ This white paper serves multiple audiences. Use this guide to navigate to the se
 - Section IX (International Comparisons) for context
 - Table 5 (Reservation-Response Matrix) in Section X
 
-\newpage
+---
 
 ## I. Executive Summary
 
@@ -1677,7 +1646,7 @@ The proposal outlined in this paper attempts to chart a responsible path—one t
 
 ## Appendices
 
-\newpage
+---
 
 ### Appendix A: Santiago Principles Summary
 
@@ -1757,7 +1726,7 @@ Based on the proposed governance architecture in this white paper, a US SWF desi
 
 The congressional statutory foundation, independent governance structure, transparency requirements, and professional management proposed in this white paper are specifically designed to achieve Santiago Principles compliance from day one of operations.
 
-\newpage
+---
 
 ### Appendix B: Detailed Governance Comparison
 
@@ -1930,7 +1899,7 @@ The 2021 PIIE update found that while overall SWF governance has improved since 
 
 **Implication**: A US SWF should target a Truman score of 90+ by emphasizing transparency and governance—areas where democratic legitimacy provides natural advantages over non-democratic SWF sponsors. Given the scrutiny a US fund would face, anything less than top-tier governance would undermine the fund's credibility and effectiveness.
 
-\newpage
+---
 
 ### Appendix C: Federal Asset Inventory
 
@@ -2093,7 +2062,7 @@ Begin with congressional appropriations and dedicated revenues (mineral royaltie
 - OMB, *Analytical Perspectives* (Budget supplementary materials)
 - Congressional Budget Office, *Federal Assets and Their Returns* (periodic)
 
-\newpage
+---
 
 ### Appendix D: Draft Enabling Legislation Outline
 
@@ -2481,7 +2450,7 @@ This Act shall take effect 90 days after enactment.
 
 ---
 
-\newpage
+---
 
 ## References
 
