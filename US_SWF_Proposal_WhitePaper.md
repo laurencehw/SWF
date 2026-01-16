@@ -42,7 +42,55 @@ header-includes:
 
 \newpage
 
+## How to Read This Paper
+
+This white paper serves multiple audiences. Use this guide to navigate to the sections most relevant to your needs:
+
+**For Policymakers and Senior Officials** (30-45 minutes)
+
+- Start with Section I (Executive Summary)
+- Review Section V (Governance Structure)
+- Read Section X (Explicit Reservations and Design Responses)
+- Skim Section XI (Implementation Roadmap)
+
+**For Legislative Staff** (2-3 hours)
+
+- Full read of Sections I, V, VIII (Congressional Authorization), and X
+- Review Appendix D (Draft Enabling Legislation Outline)
+- Reference Appendix A (Santiago Principles) as needed
+
+**For Researchers and Academics** (Full paper)
+
+- Complete read recommended
+- Appendices B and C provide detailed comparative data
+- References section includes extensive academic literature
+
+**For Journalists and General Interest** (20-30 minutes)
+
+- Section I (Executive Summary) and Section II (Introduction)
+- Section IX (International Comparisons) for context
+- Table 5 (Reservation-Response Matrix) in Section X
+
+\newpage
+
 ## I. Executive Summary
+
+### Proposal at a Glance
+
+```
+╔═══════════════════════════════════════════════════════════════════════╗
+║           UNITED STATES STRATEGIC INVESTMENT FUND (USSIF)             ║
+╠═══════════════════════════════════════════════════════════════════════╣
+║                                                                       ║
+║   TARGET SIZE        $300-500B (Year 10) → $500B-$1T (Year 30)       ║
+║   INITIAL FUNDING    $50 billion congressional appropriation          ║
+║   STRUCTURE          Dual-account (Strategic 60% / Domestic 40%)     ║
+║   GOVERNANCE         9-member board with independent majority         ║
+║   LEGAL BASIS        Congressional statute (not executive order)      ║
+║   COMPLIANCE         Full Santiago Principles adherence               ║
+║                                                                       ║
+╚═══════════════════════════════════════════════════════════════════════╝
+```
 
 ### The Case for a US Sovereign Wealth Fund
 
@@ -119,6 +167,26 @@ The fund must be created by act of Congress providing:
 A well-designed US sovereign wealth fund could fill a genuine gap in America's economic statecraft toolkit—competing with Chinese capital, securing critical supply chains, catalyzing infrastructure investment, and generating long-term returns. But design is destiny. This paper provides a blueprint for a fund that maximizes strategic value while minimizing the politicization risks that have undermined sovereign investment vehicles elsewhere.
 
 The question is not whether the US *can* create an effective sovereign wealth fund—it clearly can. The question is whether political will exists to create one *wisely*, with the governance discipline that such an institution requires. The stakes are high, and the window for action may be limited.
+
+### How This Proposal Compares to Global Best Practices
+
+```
+                           TRANSPARENCY    GOVERNANCE    STRATEGIC
+                           & DISCLOSURE   INDEPENDENCE   MANDATE
+                           ────────────   ────────────   ────────
+Norway GPFG                    █████          ████          ██
+Singapore GIC                  ███            █████         ███
+Australia Future Fund          █████          █████         ██
+New Zealand Super              █████          █████         ██
+China CIC                      ██             ██            █████
+Saudi Arabia PIF               █              ██            █████
+                               ─────          ─────         ─────
+PROPOSED US SWF                █████          █████         ████
+
+█ = Low  ██ = Moderate  ███ = Above Average  ████ = High  █████ = Highest
+```
+
+The proposed USSIF is designed to combine the transparency of Norway, the governance independence of Singapore and the Westminster models, and the strategic flexibility of development-oriented funds—while avoiding the politicization risks that have undermined funds in less democratic contexts.
 
 ---
 
@@ -336,6 +404,41 @@ Tariff revenues could be *one component* of a diversified funding strategy but s
 
 ### Proposed Funding Mechanism: A Phased Approach
 
+**Figure 4: Phased Funding Strategy**
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│                    FUNDING SOURCES OVER TIME                            │
+└─────────────────────────────────────────────────────────────────────────┘
+
+PHASE 1 (Years 1-5)          PHASE 2 (Years 3+)         PHASE 3 (Years 5+)
+Congressional                 + Dedicated                + Asset
+Appropriations                Revenues                   Monetization
+
+    ████████████                ████████████               ████████████
+    ████████████                ████████████               ████████████
+    ████████████                ░░░░░░░░░░░░               ████████████
+    ████████████                ░░░░░░░░░░░░               ░░░░░░░░░░░░
+                                ░░░░░░░░░░░░               ░░░░░░░░░░░░
+                                                           ▒▒▒▒▒▒▒▒▒▒▒▒
+                                                           ▒▒▒▒▒▒▒▒▒▒▒▒
+
+    █ = Appropriations    ░ = Dedicated Revenues    ▒ = Asset Monetization
+
+
+┌───────────────────┐   ┌───────────────────────┐   ┌───────────────────────┐
+│ PHASE 1           │   │ PHASE 2               │   │ PHASE 3               │
+│ Years 1-5         │   │ Years 3+              │   │ Years 5+              │
+├───────────────────┤   ├───────────────────────┤   ├───────────────────────┤
+│ • $50B initial    │   │ • Mineral royalties   │   │ • SPR partial         │
+│   appropriation   │   │   ($3-7B/yr)          │   │   transfer            │
+│ • $10-15B annual  │   │ • Spectrum auctions   │   │ • Federal real        │
+│   contributions   │   │   ($2-10B/yr)         │   │   property            │
+│                   │   │ • Asset dispositions  │   │ • Infrastructure      │
+│                   │   │   ($5-10B/yr)         │   │   concessions         │
+└───────────────────┘   └───────────────────────┘   └───────────────────────┘
+```
+
 This paper proposes a phased funding strategy that begins with manageable appropriations and builds toward diversified funding sources over time.
 
 #### Phase 1: Congressional Appropriation (Years 1-5)
@@ -467,6 +570,54 @@ Political interference in SWF operations can take multiple forms:
 Each of these risks requires specific structural countermeasures.
 
 ### Proposed Governance Architecture
+
+**Figure 1: USSIF Governance Structure**
+
+```
+                    ┌─────────────────────────────────────┐
+                    │           U.S. CONGRESS             │
+                    │  (Oversight, Appropriations, GAO)   │
+                    └──────────────────┬──────────────────┘
+                                       │
+                    ┌──────────────────▼──────────────────┐
+                    │        BOARD OF DIRECTORS           │
+                    │            (9 Members)              │
+                    ├─────────────────────────────────────┤
+                    │                                     │
+                    │  ┌─────────────────────────────┐    │
+                    │  │   INDEPENDENT DIRECTORS     │    │
+                    │  │   (4) - Voting Majority     │    │
+                    │  │   • 15+ yrs investment exp  │    │
+                    │  │   • 7-year staggered terms  │    │
+                    │  │   • Select Chair & CEO      │    │
+                    │  └─────────────────────────────┘    │
+                    │                                     │
+                    │  ┌──────────────┐ ┌──────────────┐  │
+                    │  │ CONGRESSIONAL│ │  EX-OFFICIO  │  │
+                    │  │  APPOINTEES  │ │   MEMBERS    │  │
+                    │  │     (2)      │ │     (3)      │  │
+                    │  │ • Bipartisan │ │ • Treasury   │  │
+                    │  │ • 6-yr terms │ │ • Commerce   │  │
+                    │  │              │ │ • NEC Dir.   │  │
+                    │  │              │ │ (Non-voting  │  │
+                    │  │              │ │  on invest.) │  │
+                    │  └──────────────┘ └──────────────┘  │
+                    └──────────────────┬──────────────────┘
+                                       │
+                    ┌──────────────────▼──────────────────┐
+                    │     CHIEF EXECUTIVE OFFICER         │
+                    │  (Selected by Independent Directors)│
+                    │         5-year term                 │
+                    └──────────────────┬──────────────────┘
+                                       │
+              ┌────────────────────────┼────────────────────────┐
+              │                        │                        │
+    ┌─────────▼─────────┐   ┌─────────▼─────────┐   ┌─────────▼─────────┐
+    │        CIO        │   │   INVESTMENT      │   │   INSPECTOR       │
+    │  Chief Investment │   │    COMMITTEE      │   │    GENERAL        │
+    │     Officer       │   │ (Senior Staff)    │   │  (Independent)    │
+    └───────────────────┘   └───────────────────┘   └───────────────────┘
+```
 
 #### 1. Legal Foundation: Congressional Statute, Not Executive Order
 
@@ -611,6 +762,53 @@ The enabling statute should include explicit prohibitions:
 ## VI. Investment Strategy: The Dual-Account Structure
 
 ### Rationale for Dual Structure
+
+**Figure 2: Dual-Account Investment Structure**
+
+```
+┌─────────────────────────────────────────────────────────────────────────┐
+│              UNITED STATES STRATEGIC INVESTMENT FUND                    │
+│                        Total AUM Target                                 │
+└─────────────────────────────────┬───────────────────────────────────────┘
+                                  │
+            ┌─────────────────────┴─────────────────────┐
+            │                                           │
+            ▼                                           ▼
+┌───────────────────────────────────┐   ┌───────────────────────────────────┐
+│   STRATEGIC INVESTMENT ACCOUNT    │   │   DOMESTIC DEVELOPMENT ACCOUNT    │
+│              (60%)                │   │              (40%)                │
+├───────────────────────────────────┤   ├───────────────────────────────────┤
+│                                   │   │                                   │
+│  MANDATE                          │   │  MANDATE                          │
+│  Advance US economic & national   │   │  Catalyze private investment in   │
+│  security through international   │   │  US infrastructure & critical     │
+│  strategic investments            │   │  industries                       │
+│                                   │   │                                   │
+├───────────────────────────────────┤   ├───────────────────────────────────┤
+│                                   │   │                                   │
+│  FOCUS AREAS                      │   │  FOCUS AREAS                      │
+│  • Critical minerals & supply     │   │  • Transportation infrastructure  │
+│    chain resilience               │   │  • Energy grid modernization      │
+│  • Semiconductor & advanced tech  │   │  • Domestic manufacturing         │
+│  • Energy security infrastructure │   │  • Workforce development          │
+│  • Allied nation infrastructure   │   │                                   │
+│                                   │   │                                   │
+├───────────────────────────────────┤   ├───────────────────────────────────┤
+│                                   │   │                                   │
+│  RETURN TARGET                    │   │  RETURN TARGET                    │
+│  Risk-adjusted returns above      │   │  Modest positive real returns     │
+│  risk-free rate; strategic value  │   │  (2-4% above inflation);          │
+│  may justify below-market returns │   │  social/economic multipliers      │
+│                                   │   │                                   │
+├───────────────────────────────────┤   ├───────────────────────────────────┤
+│                                   │   │                                   │
+│  KEY CONSTRAINTS                  │   │  KEY CONSTRAINTS                  │
+│  • 70%+ international allocation  │   │  • 100% domestic                  │
+│  • Minority stakes only           │   │  • 50%+ private co-investment     │
+│  • 1% max single investment       │   │  • Davis-Bacon labor standards    │
+│                                   │   │                                   │
+└───────────────────────────────────┘   └───────────────────────────────────┘
+```
 
 A US sovereign wealth fund must serve two distinct objectives that, while complementary, require different investment approaches:
 
@@ -1276,6 +1474,48 @@ This section directly addresses the most serious reservations about a US soverei
 ---
 
 ## XI. Implementation Roadmap
+
+**Figure 3: Implementation Timeline and AUM Growth**
+
+```
+AUM ($B)
+   │
+1T ┤                                                              ╭────
+   │                                                         ╭────╯
+   │                                                    ╭────╯
+800┤                                               ╭────╯
+   │                                          ╭────╯
+600┤                                     ╭────╯
+   │                                ╭────╯
+500┤                           ●────╯   Target: $500B-$1T
+   │                      ╭────╯
+400┤                 ╭────╯
+   │            ╭────╯
+300┤       ●────╯   Target: $300-500B
+   │  ╭────╯
+200┤  │
+   │  │
+150┤  ●   $130-150B
+   │  │
+100┤  │
+ 70┤──●   $70B
+ 50┤  │
+   │  │
+   └──┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴───
+      1    2    3    4    5    6    7    8    9   10   15   20   25  30
+                                                                    Year
+
+      │◄──────────────►│◄──────────────────────►│◄────────────────────►│
+         LAUNCH &           SCALE & MATURATION         LONG-TERM
+        BUILD-OUT                                      OPERATIONS
+
+      ┌────────────────┐ ┌──────────────────────┐ ┌────────────────────┐
+      │ • Authorization│ │ • Full operations    │ │ • Self-sustaining  │
+      │ • $50B initial │ │ • Dedicated revenues │ │ • Investment-driven│
+      │ • Board seated │ │ • First reauthorize  │ │   growth           │
+      │ • First invest │ │ • 100-150 staff      │ │ • Mature platform  │
+      └────────────────┘ └──────────────────────┘ └────────────────────┘
+```
 
 ### Year 1: Authorization and Establishment
 
@@ -2365,4 +2605,26 @@ Davis-Bacon Act, 40 U.S.C. § 3141 et seq.
 
 ---
 
-*This white paper was prepared drawing on extensive academic literature on sovereign wealth funds, current policy debates, and international best practices. The author acknowledges the foundational research collected for earlier SWF scholarship, as well as current analysis from the Council on Foreign Relations, Carnegie Endowment, Peterson Institute, and other institutions.*
+## About the Author
+
+**Laurence Wilse-Samson** is a researcher focused on public finance, institutional economics, and international economic policy. This white paper draws on extensive analysis of sovereign wealth fund governance, international best practices, and the evolving landscape of economic statecraft.
+
+The author welcomes feedback, corrections, and suggestions for improving this analysis. For inquiries or to report errors, please open an issue on the project repository.
+
+---
+
+## Acknowledgments
+
+This white paper draws on the foundational research of numerous scholars and practitioners in the sovereign wealth fund field. The author particularly acknowledges:
+
+- **Edwin M. Truman** (Peterson Institute) for pioneering SWF governance scorecards
+- **Zongyuan Zoe Liu** (Council on Foreign Relations) for analysis of China's sovereign investment ecosystem
+- The **International Forum of Sovereign Wealth Funds** for developing and maintaining the Santiago Principles
+- The **research teams** at the Carnegie Endowment, Center for Global Development, and Council on Foreign Relations for their policy analysis
+- The **fund managers and officials** at Norway's GPFG, Singapore's GIC and Temasek, Australia's Future Fund, and New Zealand's Superannuation Fund whose transparency and best practices inform this proposal
+
+Any errors or omissions remain the author's responsibility.
+
+---
+
+*This white paper was prepared drawing on extensive academic literature on sovereign wealth funds, current policy debates, and international best practices.*
