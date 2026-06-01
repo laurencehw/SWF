@@ -95,6 +95,7 @@ A well-designed US sovereign wealth fund could:
 - **Catalyze** domestic infrastructure investment
 - **Generate** long-term returns for Americans
 - **Strengthen** alliances through co-investment
+- **Give the public a stake in AI** via an optional, ring-fenced sleeve of non-controlling, warrant-weighted exposure to frontier AI firms, funding a contingency-triggered citizens' dividend (responding to the 2026 Sanders and Bores proposals — see Section XII)
 
 **But design is destiny.** Without robust governance, the fund risks becoming a vehicle for political patronage. This proposal provides a blueprint for maximizing strategic value while minimizing politicization risks.
 
