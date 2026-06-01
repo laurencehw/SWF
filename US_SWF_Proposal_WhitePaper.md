@@ -228,14 +228,14 @@ Finally, the fund must be built to complement what already exists rather than to
 
 **The failures** all rhyme. Libya's fund served the regime and then collapsed with it. Malaysia's 1MDB began as a development fund and ended as a synonym for fraud, with some \$4.5 billion unaccounted for. Venezuela's FONDEN became off-budget spending with no transparency and no records. The common thread is weak governance, a development or strategic label used to excuse non-commercial decisions, opacity, and fiscal desperation. Everything in Section V is, in effect, a response to this paragraph.
 
-**Table 3: Governance, Compared**
+**Table 3: Governance, Compared** (GIC and Temasek are Singaporean; CIC is China's)
 
-| | Norway | Singapore (GIC) | Singapore (Temasek) | China (CIC) | Proposed US |
-|--|--------|-----------------|---------------------|-------------|-------------|
-| Legal basis | Act of Parliament | Companies Act | Companies Act | State Council | Congressional statute |
-| Board independence | Moderate | High | High | Low | High by design |
-| Political insulation | High | Very high | Very high | Low | High by design |
-| Transparency | Highest | Moderate | Moderate–high | Low | High |
+| Element | Norway | GIC | Temasek | CIC | Proposed US |
+|---------------|----------|----------|----------|----------|------------|
+| Legal basis | Parliament | Companies Act | Companies Act | State Council | Statute |
+| Independence | Moderate | High | High | Low | High |
+| Insulation | High | Very high | Very high | Low | High |
+| Transparency | Highest | Moderate | Mod.–high | Low | High |
 | Santiago | Yes | Yes | Opted out | Yes | Committed |
 
 [^liu]: Zongyuan Zoe Liu, *Sovereign Funds: How the Communist Party of China Finances Its Global Ambitions* (Harvard University Press, 2023).
@@ -307,8 +307,8 @@ The proposals sit at opposite ends of a spectrum from active ownership to passiv
 
 **Table 5: The Two AI Models**
 
-| | Sanders (AI SWF Act) | Bores (AI Dividend) |
-|--|----------------------|---------------------|
+| Dimension | Sanders (AI SWF Act) | Bores (AI Dividend) |
+|------------|----------------------|---------------------|
 | Funding | One-time 50% equity tax, in stock | Usage levy + out-of-the-money warrants + tax reform |
 | Stake | Up to ~50%, controlling | Variable; pays off only in tail success |
 | Governance role | Voting shares, board seats, a veto | Passive; no operational control |
