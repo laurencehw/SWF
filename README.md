@@ -51,7 +51,7 @@ A well-designed sovereign wealth fund that:
 
 ## Paper Structure
 
-The white paper is organized into twelve sections plus four detailed appendices:
+The white paper is organized into thirteen sections plus four detailed appendices:
 
 ### Main Sections
 
@@ -66,7 +66,8 @@ The white paper is organized into twelve sections plus four detailed appendices:
 9. **International Comparisons** — Lessons from Norway, Singapore, China, and others
 10. **Explicit Reservations and Design Responses** — Addressing key concerns
 11. **Implementation Roadmap** — From authorization to 30-year targets
-12. **Conclusion** — The path forward
+12. **The AI Dimension** — Public stakes in AI firms and a citizens' dividend (Sanders & Bores)
+13. **Conclusion** — The path forward
 
 ### Appendices
 

@@ -112,6 +112,10 @@ The fund must be created by act of Congress providing:
 - Oversight mechanisms (GAO, Inspector General, congressional reporting)
 - 10-year sunset requiring reauthorization
 
+**6. An Optional AI Public-Stake Sleeve and Citizens' Dividend**
+
+Responding to the 2026 Sanders and Bores proposals, the fund can host a ring-fenced sleeve that gives the public a direct, *non-controlling* stake in frontier AI firms—acquired primarily through out-of-the-money warrants and AI-usage (compute/token) levies rather than a confiscatory equity tax—with realized proceeds funding a contingency-triggered citizens' dividend. This captures the distributive upside of the AI boom and provides a labor-displacement buffer while preserving the fund's independent governance, minority-stake discipline, and Santiago compliance. See Section XII.
+
 ### Addressing Key Concerns
 
 | Concern | Design Response |
@@ -167,6 +171,8 @@ On February 3, 2025, President Donald Trump signed an executive order directing 
 
 The proposal did not emerge from a vacuum. During 2024, the Biden administration had been quietly developing a similar concept, led by Daleep Singh, the Deputy National Security Advisor for International Economics. As Singh observed, "We're in this really intense geopolitical competition that's playing out through economics."[^2] The thinking was that such a fund could catalyze investment in critical industries where private capital alone was insufficient but which were nonetheless vital for national security.
 
+By mid-2026, a second rationale had moved from the academic margins to the center of national debate—one rooted not in geopolitics but in the distribution of wealth created by artificial intelligence. In June 2026, Senator Bernie Sanders announced an "American A.I. Sovereign Wealth Fund Act" proposing that the public take a direct ownership stake—up to half—of the largest US AI companies, arguing that because AI is "built on the collective knowledge of humanity, the wealth it generates must benefit humanity."[^2a] Assemblyman Alex Bores advanced a complementary "AI Dividend"—a contingency-based direct-payment program funded through a tax on AI usage, equity participation in frontier AI firms, and reforms to the tax treatment of labor and capital.[^2b] Strikingly, these proposals found qualified support from the AI labs themselves: OpenAI floated a "public wealth fund that provides every citizen … with a stake in AI-driven economic growth," and Anthropic has discussed "national sovereign wealth funds with stakes in AI." This distributive case—that a sovereign fund could give Americans a direct claim on AI-generated wealth and a buffer against labor displacement—is distinct from, but reinforces, the strategic case for a US SWF. This paper addresses it directly in **Section XII**, which proposes a design-compatible way to incorporate an AI public-stake sleeve and a citizens' dividend without compromising the governance discipline developed in the sections that follow.
+
 ### The Geopolitical Imperative
 
 The case for a US sovereign wealth fund rests fundamentally on a recognition that the landscape of global economic competition has shifted. China's Belt and Road Initiative has deployed an estimated $1 trillion in strategic investments across more than 140 countries, creating infrastructure dependencies and securing access to critical resources.[^3] Saudi Arabia's Public Investment Fund ($925 billion in assets) has become a major player in global technology and entertainment investments. Singapore's GIC and Temasek together manage over $1 trillion in assets that advance Singapore's strategic interests worldwide.
@@ -206,10 +212,13 @@ The remainder of this paper proceeds as follows:
 - **Section IX** draws lessons from international comparisons—both successes and failures.
 - **Section X** explicitly addresses reservations and explains how design choices respond to each concern.
 - **Section XI** provides an implementation roadmap from authorization through thirty-year targets.
-- **Section XII** concludes with a call to action.
+- **Section XII** addresses the emerging AI-ownership rationale—the Sanders and Bores proposals—and shows how a public-stake sleeve and citizens' dividend can be incorporated within the fund's governance framework.
+- **Section XIII** concludes with a call to action.
 
 [^1]: The White House, "Fact Sheet: President Donald J. Trump Orders Plan for a United States Sovereign Wealth Fund," February 2025.
 [^2]: NPR, "What is a sovereign wealth fund and why does President Trump want one?" February 10, 2025.
+[^2a]: Bernie Sanders, "Bernie Sanders: The Public Should Own Half of the Big A.I. Companies," *The New York Times* (Guest Essay), June 1, 2026.
+[^2b]: Alex Bores, "The AI Dividend: Preparing America for the AI Economy," policy summary, 2026.
 [^3]: Council on Foreign Relations, China's Belt and Road Initiative data.
 [^4]: Center for Global Development, "Don't Go Chasing Sovereign Wealth Funds: Stick with Development Finance Corporations," 2025.
 [^5]: Carnegie Endowment for International Peace, "Trump's Sovereign Wealth Fund Brings High Stakes and Serious Risks," April 2025.
@@ -450,6 +459,12 @@ Federal Communications Commission spectrum auctions have generated over $200 bil
 The federal government owns hundreds of billions of dollars in real estate, much of it underutilized. Proceeds from strategic dispositions could fund the SWF.
 
 *Projected contribution*: Variable; potentially $5-10 billion annually
+
+**AI-Linked Revenues and Equity Participation**
+
+A novel and potentially large funding stream would tie the fund to the growth of the artificial-intelligence economy: a modest levy on AI usage (measured in compute or tokens) and the acquisition of *non-controlling* equity participation in frontier AI firms—structured primarily as out-of-the-money warrants so that the public captures upside without diluting founders or distorting day-to-day management. Because AI revenues are rising even as the wage tax base may erode under automation, taxing the growing activity rather than the shrinking one is sound fiscal management. This mechanism is developed in full in Section XII, including its design, governance safeguards, and the distributive (citizens'-dividend) rationale.
+
+*Projected contribution*: Highly uncertain; potentially negligible near-term but very large in tail scenarios where AI adoption accelerates
 
 #### Phase 3: Asset Monetization Options (Years 5+)
 
@@ -1605,7 +1620,68 @@ AUM ($B)
 
 ---
 
-## XII. Conclusion
+## XII. The AI Dimension: Public Stakes in AI Firms and a Citizens' Dividend
+
+The preceding sections build the case for a US sovereign wealth fund on the logic of *economic statecraft*—competing with Chinese capital, securing supply chains, and catalyzing domestic investment. A second and, by 2026, increasingly prominent rationale rests on a different foundation: *distribution*. If artificial intelligence generates extraordinary wealth while displacing large numbers of workers, who should own that wealth, and how should ordinary Americans share in it? This section addresses that question directly, evaluates the leading proposals, and shows how a public stake in AI can be incorporated into the fund proposed here without abandoning the governance discipline that is its central commitment.
+
+### The Distributive Case
+
+The argument has a simple moral core, articulated most forcefully by Senator Bernie Sanders: modern AI was not conjured from nothing. It was trained on "the accumulated knowledge, creativity and labor of mankind"—the books, code, art, journalism, and conversation of generations—largely without permission or compensation.[^aidiv1] On this view, AI is built atop a public resource "far more valuable than oil," and the principle that has long governed oil-funded sovereign wealth funds applies with equal force: *when a public resource generates wealth, the public should share in that wealth.*
+
+A second strand of the argument is prudential rather than moral, and is the organizing idea of Assemblyman Alex Bores's "AI Dividend." For the first time, the firms building a transformative technology are explicitly attempting to automate human labor. They may not succeed—but if there is a meaningful probability that AI displaces a large share of workers, responsible policy prepares for it *before* it happens. The AI Dividend is framed not as a punishment for innovation but as an *insurance policy*: a floor that activates if and when AI meaningfully displaces workers, funded by mechanisms that pay off precisely in the scenarios where the safety net is most needed.[^aidiv2]
+
+Notably, leading AI developers have themselves gestured toward this conclusion. OpenAI has floated a "public wealth fund that provides every citizen—including those not invested in financial markets—with a stake in AI-driven economic growth," and Anthropic has discussed "national sovereign wealth funds with stakes in AI." Whatever one makes of the motives, the convergence of a democratic-socialist senator, a state legislator, and the AI labs on the *form* of the solution—a sovereign fund holding AI exposure on behalf of the public—is itself significant.
+
+Public sentiment reinforces the political salience. Polling cited in the Bores proposal finds that 67% of Americans believe AI will eliminate more jobs than it creates, a majority would hold tech companies financially responsible for AI-driven job losses, and roughly 79% worry the government has no plan to protect workers.[^aidiv2] By early 2026, AI had risen above guns, climate, and abortion as a voter priority for a majority of voters.
+
+### Two Models on the Table
+
+The 2026 proposals occupy two distinct points on a spectrum from *active public ownership* to *passive public participation*.
+
+**The Sanders model (active ownership).** The American A.I. Sovereign Wealth Fund Act would create a fund through a one-time tax of 50 percent—paid not in profits but *in stock*—on the largest AI companies. Crucially, it contemplates the government exercising *voting shares* and taking *equal representation on each company's board*, with the power "to block decisions that hurt our citizens and to push for policies that help them." The fund's proceeds would flow first to direct payments and ultimately toward universal provision of health care, education, and housing. This is the maximalist pole: a controlling or near-controlling public stake with an explicit governance role.
+
+**The Bores model (passive participation).** The AI Dividend funds itself through three lighter-touch mechanisms: (1) a *token/compute tax* on AI usage, scaling automatically with adoption; (2) *equity participation structured as out-of-the-money warrants*—the right to buy shares at a strike price requiring the company to multiply many times over before the warrant pays off, so the public gets a large windfall only in the very scenarios (runaway AI success and labor displacement) where the dividend is most needed, and without diluting existing shareholders unless the firm wins enormously; and (3) *reform of the tax treatment of labor and capital*, reducing depreciation incentives that effectively subsidize labor-replacing automation. Distribution is contingency-based, triggered by observable conditions (sustained declines in labor-force participation, sectoral wage compression, AI-driven productivity gains without job growth) rather than political discretion.
+
+**Table 7: Comparing the Two AI-Stake Models**
+
+| Dimension | Sanders (American AI SWF Act) | Bores (AI Dividend) |
+|-----------|-------------------------------|---------------------|
+| **Funding mechanism** | One-time 50% equity tax, paid in stock | Token/compute tax + out-of-the-money warrants + tax reform |
+| **Size of public stake** | Up to ~50% (controlling) | Variable; pays off only in tail success scenarios |
+| **Governance role** | Voting shares + board seats; power to block | Passive; no operational control |
+| **Dilution / founder impact** | Significant, immediate | Minimal unless firm succeeds enormously |
+| **Distribution** | Direct payments → universal services | Contingency-triggered dividend + transition/oversight funding |
+| **Trigger** | Immediate, statutory | Activates on observed labor-market conditions |
+| **Primary risk** | Politicization, takings/valuation, capital flight | Underfunding if AI underdelivers; warrant design complexity |
+
+### How This Fits the Fund Proposed Here
+
+The Sanders model, however compelling its moral framing, sits in direct tension with the central design commitment of this paper. Sections V and X argue at length that a US SWF succeeds or fails on its insulation from political control, that it should take *minority, non-controlling stakes only* (a core response to geopolitical-blowback and politicization concerns), and that it should adhere to the Santiago Principles, which presume commercially-driven, arm's-length investment. A fund that holds 50 percent of the country's leading AI firms and uses board seats to "block decisions"—however well-intentioned—would be an instrument of industrial policy and corporate control, not a sovereign wealth fund in the sense developed here. It would also raise serious constitutional questions (an equity tax paid in stock invites Fifth Amendment takings and apportionment challenges), valuation and moral-hazard problems, and a real risk of driving frontier AI investment, talent, and incorporation offshore.
+
+The Bores model, by contrast, is highly compatible with this fund's architecture. A warrant-based, passive stake requires no operational control, does not dilute founders except in extreme-upside scenarios, and aligns naturally with the long-horizon, minority-stake posture already recommended. A compute/token levy is a broad-based excise, not an ownership grab. And contingency-based distribution mirrors the discipline this paper applies elsewhere—rules over discretion, triggers over politics.
+
+Accordingly, this paper recommends incorporating the AI-ownership rationale through a **ring-fenced "AI Public-Stake Sleeve"** within the Domestic Development Account, governed by the same independent board and fiduciary standards as the rest of the fund, with the following parameters:
+
+- **Acquisition, not confiscation.** Build the public stake primarily through (a) out-of-the-money warrants negotiated as a condition of federal compute, procurement, data, or research support; (b) a modest AI-usage (compute/token) levy; and (c) ordinary market purchases. Treat any Sanders-style equity tax as a separate legislative question outside the fund's own mandate—if Congress enacts one, the resulting shares can be *custodied* by the fund, but the fund should not itself wield them as a control instrument.
+- **Non-controlling by statute.** Cap voting rights well below control thresholds and default to pass-through or independent-fiduciary voting, preserving the minority-stake discipline of Section VI and the anti-politicization provisions of Section V.
+- **Ring-fenced accounting.** Track the AI sleeve separately so that its concentrated, high-variance exposure does not distort the fund's overall risk posture, and so gains can be transparently linked to any dividend.
+- **A contingency-triggered Citizens' Dividend.** Direct that realized proceeds from the AI sleeve fund (i) a citizens' dividend that activates on pre-defined labor-market triggers, on the Alaska Permanent Fund model but conditioned on AI-driven displacement; (ii) workforce transition, training, and education; and (iii) independent AI-safety and oversight capacity—mirroring the three uses Bores proposes.
+- **Antitrust and neutrality guardrails.** Prohibit the sleeve from being used to favor particular firms, distort competition, or substitute for regulation; the public's financial stake must not compromise the government's role as an impartial regulator of the same companies.
+
+### Why Now, and Why Modestly
+
+The Bores proposal stresses a timing argument this paper shares: the window for negotiating public stakes is widest *now*, while AI firms are still raising capital and seeking government support (compute, energy, procurement, liability frameworks), and narrows sharply once value is captured. Out-of-the-money warrants are far easier to obtain as a condition of support today than to extract from entrenched incumbents tomorrow.
+
+At the same time, intellectual honesty requires acknowledging the case *against* over-weighting AI. The fund's core mandate is diversified, strategic, and multi-decade; concentrating it in a handful of high-valuation, highly-correlated AI firms would import enormous idiosyncratic risk and could politicize the fund precisely as Section X warns. If AI underdelivers, a warrant-funded dividend may raise little. And a government that both regulates and owns large stakes in AI faces genuine conflicts of interest. The recommendation here—a ring-fenced, non-controlling, warrant-weighted sleeve with rule-based distribution—is deliberately the *modest* end of the spectrum: it captures the distributive upside and the political appeal of the Sanders and Bores proposals while subordinating them to the governance discipline that makes the broader fund credible.
+
+In short, the AI moment strengthens the case for a US sovereign wealth fund and adds a powerful new constituency for it. But it should be incorporated as a disciplined sleeve of a well-governed fund, not as a vehicle for public control of the AI industry. Done well, it offers Americans a genuine ownership stake in the technology being built on their collective knowledge—an insurance policy against displacement and a claim on the upside—without sacrificing the independence on which the entire enterprise depends.
+
+[^aidiv1]: Bernie Sanders, "Bernie Sanders: The Public Should Own Half of the Big A.I. Companies," *The New York Times* (Guest Essay), June 1, 2026. Quotations in this section are drawn from that essay.
+[^aidiv2]: Alex Bores, "The AI Dividend: Preparing America for the AI Economy," policy summary, 2026. Funding-mechanism descriptions, trigger design, and polling figures are drawn from that document.
+
+---
+
+## XIII. Conclusion
 
 ### The Strategic Imperative
 
@@ -1624,6 +1700,7 @@ This paper has proposed an architecture designed to maximize the benefits of sov
 - **Phased funding** that acknowledges fiscal constraints and builds capacity before scale
 - **Transparency and oversight** that enables democratic accountability without politicization
 - **Santiago Principles compliance** that demonstrates commitment to international best practices
+- **An optional, ring-fenced AI public-stake sleeve** that lets Americans share in AI-generated wealth through non-controlling, warrant-weighted exposure and a contingency-triggered dividend—capturing the appeal of the Sanders and Bores proposals while subordinating them to the same governance discipline
 
 ### The Path Forward
 
@@ -2531,6 +2608,10 @@ Center for Global Development. "Don't Go Chasing Sovereign Wealth Funds: Stick w
 *Foreign Policy*. "What Trump's Sovereign Wealth Fund Proposal Means for the U.S. and the World." February 6, 2025.
 
 NPR. "What is a sovereign wealth fund and why does President Trump want one?" February 10, 2025.
+
+Sanders, Bernie. "Bernie Sanders: The Public Should Own Half of the Big A.I. Companies." *The New York Times*, Guest Essay, June 1, 2026.
+
+Bores, Alex. "The AI Dividend: Preparing America for the AI Economy." Policy summary, 2026.
 
 ### Fund Annual Reports and Disclosures
 
