@@ -3,7 +3,7 @@
 **A Proposal for a United States Sovereign Wealth Fund**
 
 *Laurence Wilse-Samson*
-*December 2025*
+*June 2026*
 
 ---
 
