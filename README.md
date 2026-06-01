@@ -55,19 +55,19 @@ The white paper is organized into thirteen sections plus four detailed appendice
 
 ### Main Sections
 
-1. **Executive Summary** — Key recommendations at a glance
-2. **Introduction: Why Now?** — The geopolitical imperative
-3. **What is a Sovereign Wealth Fund?** — Taxonomy and global landscape
-4. **The Fundamental Challenge: Funding** — Addressing the deficit problem
-5. **Governance Structure** — Insulating against politicization
-6. **Investment Strategy** — The dual-account structure
-7. **Potential Impacts and Risks** — Market, fiscal, and geopolitical considerations
-8. **Congressional Authorization Pathway** — Constitutional and legislative requirements
-9. **International Comparisons** — Lessons from Norway, Singapore, China, and others
-10. **Explicit Reservations and Design Responses** — Addressing key concerns
-11. **Implementation Roadmap** — From authorization to 30-year targets
-12. **The AI Dimension** — Public stakes in AI firms and a citizens' dividend (Sanders & Bores)
-13. **Conclusion** — The path forward
+1. **Executive Summary** — The recommendations at a glance
+2. **Introduction: Why Now?** — The geopolitical and distributive arguments
+3. **What a Sovereign Wealth Fund Is, and Who Has One** — Taxonomy and global landscape
+4. **The Awkward Question: How to Pay for It** — Funding without a surplus
+5. **Governance** — The only part that cannot be compromised
+6. **What It Should Buy** — The dual-account structure
+7. **Impacts and Risks** — Markets, fiscal effects, geopolitics
+8. **Getting It Through Congress** — Constitutional and legislative path
+9. **Lessons From Abroad** — Norway, Singapore, China, and the failures
+10. **The Objections, Answered** — The strongest critiques and the design responses
+11. **Implementation** — From authorisation to 30-year targets
+12. **The AI Question: A Stake Without a Seat** — The Sanders and Bores proposals
+13. **Conclusion**
 
 ### Appendices
 
